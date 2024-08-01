@@ -38,6 +38,6 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+This is app is covered by the MIT license.
 
 
