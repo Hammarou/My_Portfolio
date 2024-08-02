@@ -24,7 +24,7 @@ You will be able to find all the separate files for different components or modu
 
 -The deployed webpage can be accessed at following URL:
 
-http://127.0.0.1:5500/index.html
+https://hammarou.github.io/My_Portfolio
 
 
 -To view and inspect my modifications, please access the online file located in Github.com.
