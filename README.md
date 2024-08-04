@@ -24,7 +24,7 @@ Code Source:
 
 -The deployed webpage can be accessed at following URL:
 
-hammarou.github.io/My_Portfolio/
+https://hammarou.github.io/My_Portfolio/
 
 
 -To view and inspect my modifications, please access the online file located in Github.com.
